@@ -1,0 +1,10 @@
+﻿  Cliente.cpp
+  Main.cpp
+  Prerequisitos.cpp
+  Producto.cpp
+  Proveedor.cpp
+  Sistema.cpp
+C:\Users\MiPc\source\repos\OXXOO\OXXOO\src\Sistema.cpp(47,95): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\MiPc\source\repos\OXXOO\OXXOO\src\Sistema.cpp(93,85): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Generando código...
+  OXXOO.vcxproj -> C:\Users\MiPc\source\repos\OXXOO\x64\Debug\OXXOO.exe
