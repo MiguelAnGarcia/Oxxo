@@ -1,0 +1,3 @@
+﻿  Sistema.cpp
+C:\Users\MiPc\source\repos\Oxxo\Oxxo\Sistema.cpp(47,95): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Oxxo.vcxproj -> C:\Users\MiPc\source\repos\Oxxo\x64\Debug\Oxxo.exe
